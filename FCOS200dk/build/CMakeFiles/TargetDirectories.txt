@@ -1,0 +1,3 @@
+/home/dongyu3/FCOS200dk/build/CMakeFiles/rebuild_cache.dir
+/home/dongyu3/FCOS200dk/build/CMakeFiles/mxBase_sample.dir
+/home/dongyu3/FCOS200dk/build/CMakeFiles/edit_cache.dir
